@@ -1,0 +1,1 @@
+find . -iname "a*" -o -type f -a \( -iname "*z" -o -iname "z*a!" \)
